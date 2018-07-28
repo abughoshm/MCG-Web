@@ -1,0 +1,65 @@
+html *{
+    font-family: 'Cormorant Garamond', serif;
+}
+
+html,body,header, #intro {
+    height: 100%;
+}
+
+body {
+    background-color: #bbdefb ;
+}
+
+.navbar {
+    box-shadow: none !important;
+    border-bottom: black 1px solid;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+
+}
+xw
+.nav {
+    color: #01579b;
+    text-decoration: none;
+
+}
+
+#mcg-header {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+
+}
+
+#intro {
+    background: url("MCG Art.png") no-repeat center center;
+    margin-top: 100px;
+    background-size: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+}
+
+#our-team {
+    /* padding-top: 40px; */
+    background-color: white;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+#hear-story {
+    width: 70vw;
+    margin: 0 auto;
+
+}
+
+.story-button {
+    border-radius: 40px !important;
+    background-color: transparent !important;
+}
+
+.title-bar {
+    height: 100px;
+    font-size: 60px;
+    background-color: #1565c0 ;
+    color: white;
+}
